@@ -1,7 +1,7 @@
 {
 "companyName": "GameJamAAVI",
 "productName": "WheelChair",
-"productVersion": "0.2",
+"productVersion": "0.3",
 "dataUrl": "WheelChairBuild.data.unityweb",
 "wasmCodeUrl": "WheelChairBuild.wasm.code.unityweb",
 "wasmFrameworkUrl": "WheelChairBuild.wasm.framework.unityweb",
